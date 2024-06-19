@@ -1,0 +1,61 @@
+.navigasi:link{
+    color:red;
+}
+.navigasi:visited{
+    color: green;
+}
+.navigasi:hover{
+    background-color: black;
+    color: red;
+}
+.navigasi:active{
+    color: blue;
+}
+
+ul li a:hover{
+    background-color: yellow;
+    color: green;
+}
+
+ul li a{
+    text-decoration: none;
+    color: blue;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+
+.p2{
+    font-size: 29px;
+    text-transform:uppercase;
+}
+
+.p3{
+    font-weight: bold;
+    text-transform: lowercase;
+}
+
+.p4{
+    font-style: italic;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+    color:sienna;
+}
+
+/* :link = Style default */
+/* :visited = Syle ketika link sudah pernah dikunjungi */
+/* :hover = Style ketika kursor mouse berada di link */
+/* :active* = ketika link dalam keadaan aktif atau di klik/
+/* font-family, font-size, font-weight, font-style, text-decoration, list-style-type, text-transform */

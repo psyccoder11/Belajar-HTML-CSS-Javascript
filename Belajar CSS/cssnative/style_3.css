@@ -1,0 +1,14 @@
+/* Spesific Selector */
+p b{
+    color: red;
+}
+p q{
+    color: rgb(8, 255, 8);
+}
+
+p i{
+    color: coral;
+}
+i u{
+    color: mediumvioletred;
+} 
